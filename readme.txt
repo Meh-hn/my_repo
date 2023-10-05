@@ -1,1 +1,4 @@
-Hello... This is a try to remember how git remot works..
+Hello... This is a try to remember how git remote works..
+
+it is quite fun to push the changes...
+
